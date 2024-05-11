@@ -29,7 +29,7 @@ As you defeat monsters, you earn experience points (EXP). Reaching certain thres
 
 Three types of monsters exist in the game: Slimes, Zombies, and Skeletons. Each monster has different base attributes such as health, attack power, and experience point rewards upon defeat. These values may vary due to randomization during combat encounters.
 
-#### Contributing to the Project
+# Contributing to the Project
 
 We welcome contributions from the open-source community! To participate in improving this game, please follow these steps:
 
